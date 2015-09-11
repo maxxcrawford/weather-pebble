@@ -1,0 +1,77 @@
+{
+	"coord": {
+		"lon": -95.99,
+		"lat": 36.15
+	},
+	"weather": [{
+		"id": 803,
+		"main": "Clouds",
+		"description": "broken clouds",
+		"icon": "04n"
+	}],
+	"base": "cmc stations",
+	"main": {
+		"temp": 75.72,
+		"pressure": 1012,
+		"humidity": 69,
+		"temp_min": 71.6,
+		"temp_max": 80.6
+	},
+	"wind": {
+		"speed": 6.7,
+		"deg": 180
+	},
+	"clouds": {
+		"all": 75
+	},
+	"dt": 1441945184,
+	"sys": {
+		"type": 1,
+		"id": 2261,
+		"message": 0.0083,
+		"country": "US",
+		"sunrise": 1441972999,
+		"sunset": 1442018231
+	},
+	"id": 4553433,
+	"name": "Tulsa",
+	"cod": 200
+} {
+	"coord": {
+		"lon": -95.99,
+		"lat": 36.15
+	},
+	"weather": [{
+		"id": 803,
+		"main": "Clouds",
+		"description": "broken clouds",
+		"icon": "04n"
+	}],
+	"base": "cmc stations",
+	"main": {
+		"temp": 75.72,
+		"pressure": 1012,
+		"humidity": 69,
+		"temp_min": 71.6,
+		"temp_max": 80.6
+	},
+	"wind": {
+		"speed": 6.7,
+		"deg": 180
+	},
+	"clouds": {
+		"all": 75
+	},
+	"dt": 1441945184,
+	"sys": {
+		"type": 1,
+		"id": 2261,
+		"message": 0.0083,
+		"country": "US",
+		"sunrise": 1441972999,
+		"sunset": 1442018231
+	},
+	"id": 4553433,
+	"name": "Tulsa",
+	"cod": 200
+}
